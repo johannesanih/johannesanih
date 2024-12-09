@@ -1,5 +1,5 @@
 - 👋 Hey there! I'm Johannes Anih, It's a good thing having you around my space, to be more cordial let me tell you about myself.
-- I am a web developer and tech enthusiast and in addition to that I have skills in teaching and content writing and hopefully copywriting also.
+- I am a web developer and tech enthusiast and in addition to that I have skills in trading and building indicators for analysing the financial markets
 
 
 <!---
